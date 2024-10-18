@@ -7,7 +7,7 @@ def smsgg(number):
     # Define the API endpoint and headers based on the provided curl command
     apis = [
         {
-            "url": "https://callbomberz.online/send_sms.php",
+            "url": "https://callbomberz.online/sms.php",
             "method": "POST",
             "headers": {
                 "Host": "callbomberz.online",
