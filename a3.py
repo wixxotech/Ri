@@ -12,10 +12,10 @@ from sms6 import smsgf
 from sms7 import smsgg
 
 # Replace 'YOUR_TOKEN' with your actual bot token obtained from BotFather
-TOKEN = '7937821126:AAFqzMCpSjAIoFTbZMBBPQG0Aj_n-OapM_A'
+TOKEN = '7915205595:AAGfO6-el15zaWwPmPbVLQZrSVMD0a006Q8'
 
 # Replace 'PASTEBIN_URL' with the URL of your Pastebin data
-PASTEBIN_URL = 'https://pastebin.com/raw/iwXn4XXK'
+PASTEBIN_URL = 'https://pastebin.com/raw/iKXNB7Ge'
 
 # Create an instance of the TeleBot class
 bot = telebot.TeleBot(TOKEN)
